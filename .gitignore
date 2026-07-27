@@ -1,0 +1,5 @@
+# form-sales: sensitive business data and personal info, keep local only
+.claude/skills/form-sales/templates/company-list.csv
+.claude/skills/form-sales/templates/results.csv
+.claude/skills/form-sales/templates/message.md
+.claude/skills/form-sales/references/sender-profile.md
